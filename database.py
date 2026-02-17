@@ -64,11 +64,38 @@ if conferences:
     talks['conferences']['data'] = []
 
     talks['conferences']['data'].append({
-        "title":    "When measuring binaries, identifying each object is ambiguous",
-        "what":     "7th Milan Christmas Workshop",
-        "where":    "Milan, Italy",
-        "when":     "Dec 2025",
-        "invited":  True,
+        "title":    "Quasi normal mode detectability by future space detectors",
+        "what":     "Lunar Gravitational-Wave Antenna Workshop",
+        "where":    "Rome, Italy",
+        "when":     "Oct 2024",
+        "invited":  False,
+        "more":     ""
+        })
+
+    talks['conferences']['data'].append({
+        "title":    "Ringdown analysis with simulation-based inference",
+        "what":     "Theoretical Horizons in Unraveling Relativity, Astrophysics, and Mergers (THURAM)",
+        "where":    "L'Aquila, Italy",
+        "when":     "May 2025",
+        "invited":  False,
+        "more":     ""
+        })
+    
+    talks['conferences']['data'].append({
+        "title":    "Improved gravitational wave parameter estimation with SBI and secondary mode marginalization",
+        "what":     "AIslands 2025: Bute",
+        "where":    "Rothesay, Isle of Bute, Scotland",
+        "when":     "May 2025",
+        "invited":  False,
+        "more":     ""
+        })
+        
+    talks['conferences']['data'].append({
+        "title":    "Improved gravitational wave parameter estimation with SBI and secondary mode marginalization",
+        "what":     "AIslands 2025: Bute",
+        "where":    "Rothesay, Isle of Bute, Scotland",
+        "when":     "May 2025",
+        "invited":  False,
         "more":     ""
         })
 
